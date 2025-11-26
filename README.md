@@ -1,7 +1,7 @@
 ## <h1 align="center">✨ Hi, I'm Palishma</span> 👋 ✨</h1>
 
 - 🔭 Currently focusing on web and mobile apps based on JS<br/>
-- 🌱 Computer Science Student @TU<br/>
+- 🌱 Computer Science Student from TU<br/>
 - 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/palishma-shakya-9a622529a/) or [Instagram](https://instagram.com/baylaete)<br/>
 
 
